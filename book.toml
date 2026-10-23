@@ -1,0 +1,7 @@
+[book]
+title = "Airdrop Sybil Detection"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/airdrop-sybil-detection"
